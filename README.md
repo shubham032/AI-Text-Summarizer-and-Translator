@@ -1,4 +1,4 @@
-# 🧠 AI Text Summarizer and Translator
+# 🧠 AI Text Summarizer and Translator APP
 
 A full-stack application that uses **T5 Transformer** to summarize and translate long-form content from **text or PDF files**. Built with **Flask** backend and **React.js** frontend.
 
@@ -16,7 +16,7 @@ A full-stack application that uses **T5 Transformer** to summarize and translate
 
 ## 📂 Project Structure
 
-textsumm/
+AI Text Summarizer and Translator/
 ├── Backend
 |   └──  app.py             # Flask backend
 |    
