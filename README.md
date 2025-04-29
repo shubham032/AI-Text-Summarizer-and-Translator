@@ -44,7 +44,8 @@ pip install -r requirements.txt
 3. **Run Backend**
 python app.py
 
-##💻 Frontend Setup
+## 💻 Frontend Setup
+
 1.Navigate to frontend folder:
 cd textsumm
 
@@ -54,7 +55,7 @@ npm install
 3.Start the React app:
 npm start
 
-###🔌 API Endpoint
+##🔌 API Endpoint
     >POST /summarize
     >Content-Type: multipart/form-data
     >Params:
@@ -66,10 +67,13 @@ npm start
 | `summaryLength`| string  | Yes      | Options: `short`, `medium`, `long`     |
 | `language`     | string  | No       | Language code: `en`, `es`, `fr`, `de`, `it` |
 
-🌍 Supported Languages
+
+## 🌍 Supported Languages
 English (en)
 Spanish (es)
 French (fr)
 German (de)
 Italian (it)
 
+## 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first.
