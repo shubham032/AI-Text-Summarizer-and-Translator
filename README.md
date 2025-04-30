@@ -75,5 +75,9 @@ French (fr)
 German (de)
 Italian (it)
 
+## ✨ Credits
+- T5 model by Hugging Face Transformers
+- React by Facebook
+
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
